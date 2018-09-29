@@ -1,4 +1,4 @@
-class Mkiapp < Formula
+class Ihac < Formula
   desc "iHealth API clients - simple shell scripts to interact with the F5 iHealth API (ihealth.f5.com)."
   homepage "https://github.com/simonkowallik/iHAC"
   url "https://github.com/simonkowallik/iHAC/archive/2.2.tar.gz"
