@@ -3,6 +3,7 @@ class Mkiapp < Formula
   homepage "https://github.com/simonkowallik/mkiapp"
   url "https://github.com/simonkowallik/mkiapp/archive/v1.0.tar.gz"
   sha256 "260362af7bffb3c735f0014369ce04e604db259cd1615729d2abef63d4d20c74"
+  head "https://github.com/simonkowallik/mkiapp.git"
 
   def install
     bin.install "mkiapp"
