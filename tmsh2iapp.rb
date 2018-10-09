@@ -5,10 +5,10 @@ class Tmsh2iapp < Formula
   version "20180717.1"
   head "https://github.com/f5devcentral/f5-tmsh2iapp.git"
 
-  depends_on "JSON" => :perl
-  depends_on "utf8" => :perl
-  depends_on "File::Basename" => :perl
-  depends_on "Text::Balanced" => :perl
+  #depends_on "JSON" => :perl
+  #depends_on "utf8" => :perl
+  #depends_on "File::Basename" => :perl
+  #depends_on "Text::Balanced" => :perl
 
   def install
     bin.install "tmsh2iapp.pl" => "tmsh2iapp"
