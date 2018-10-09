@@ -3,7 +3,6 @@ class Ihac < Formula
   homepage "https://github.com/simonkowallik/iHAC"
   url "https://github.com/simonkowallik/iHAC/archive/2.2.tar.gz"
   sha256 "4524219144fbc7779ca315577333dd90fada7e836733d3dc8fed9cde8b98cce4"
-  version "2.2"
 
   def install
     bin.install "ihac-auth"
