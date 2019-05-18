@@ -1,8 +1,8 @@
 class Ihac < Formula
   desc "iHealth API clients - simple shell scripts to interact with the F5 iHealth API (ihealth.f5.com)."
   homepage "https://github.com/simonkowallik/iHAC"
-  url "https://github.com/simonkowallik/iHAC/archive/3.0.tar.gz"
-  sha256 "debb456232d628c9ce390ec58c76f6a0452578ab00f099455b8a72c42e05a5b4"
+  url "https://github.com/simonkowallik/iHAC/archive/3.1.tar.gz"
+  sha256 "a9a6b1772a21b8f0cbfc80931c647ea1c96ff82329eb52eab2bdc6939ab8a2cb"
   head "https://github.com/simonkowallik/iHAC.git"
 
   def install
